@@ -3,8 +3,6 @@ function distanceFromHqInBlocks() {}
 
 function distanceFromHqInFeet() {}
 
-function distanceFromHqInBlocks () {}
-
 function distanceTravelledInFeet () {}
 
 
