@@ -1,2 +1,11 @@
 // Code your solution in this file!
-if (distanceFromHqInBlocks = 
+function distanceFromHqInBlocks() {}
+
+function distanceFromHqInFeet() {}
+
+function distanceFromHqInBlocks () {}
+
+function distanceTravelledInFeet () {}
+
+
+
